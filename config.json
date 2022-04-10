@@ -4,12 +4,12 @@
 
     "token": "",
     "prefix": "",
-    "activity": "Rol Bot"
+    "activity": "Botun Durumu"
   },
 
   "roles": {
 
-    "etkinlik": "957188666952933397",
-    "cekilis": "956614737238568984"
+    "etkinlik": "Etkinlik Rol ID",
+    "cekilis": "Cekilis Rol ID"
   }
 }
