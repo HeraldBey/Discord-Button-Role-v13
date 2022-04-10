@@ -1,0 +1,15 @@
+{
+
+  "bot": {
+
+    "token": "",
+    "prefix": "",
+    "activity": "Rol Bot"
+  },
+
+  "roles": {
+
+    "etkinlik": "957188666952933397",
+    "cekilis": "956614737238568984"
+  }
+}
