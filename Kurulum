@@ -1,0 +1,6 @@
+1. Module olarak tek discord.js indirilecektir.
+2. npm i discord.js  yazarak indirebilirsiniz.
+3. discord.js v13 olmak zorundadır aksi durumda bot hata verecektir.
+4. config dosyasındaki token, prefix, etkinlik, cekilis id'lerini tamamlayarak botun kurulumunu tamamlamış olursunuz.
+
+Projeyi fiyat karşılığı satmak yasaktır.
